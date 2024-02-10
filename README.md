@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, html5, css, vanilla js, react**
 
-- 📫 How to reach me **linkedin @sahanashre-v** email sahanashre.v@gmail.com
+- 📫 How to reach me **linkedin https://www.linkedin.com/in/sahanashre-v-b13775297/** email sahanashre.v@gmail.com
 
 <p align="left">
 </p>
