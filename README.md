@@ -1,12 +1,16 @@
-### Hi there I'm V Sahanashre👋
+<h1 align="center">Hi 👋, I'm V Sahanashre</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<!--
-**Sahanashre-V/Sahanashre-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m interested in **front end web development**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **react**
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on web development
-- 💬 Ask me about Front-end-web-development
-- 📫 How to reach me: linkedin @Sahanashre V  mail to sahanashre.v@kalvium.community
--->
+- 👯 I’m looking to collaborate on **web development**
+
+- 💬 Ask me about **python, html5, css, vanilla js, react**
+
+- 📫 How to reach me **linkedin @sahanashre-v**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
