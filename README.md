@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahanashre.v@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vk9KAW7_K-AXDR38ErLlxdWnrIQKHekC7J7x7jHIo98/edit?usp=sharing](https://docs.google.com/document/d/1vk9KAW7_K-AXDR38ErLlxdWnrIQKHekC7J7x7jHIo98/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1vk9KAW7_K-AXDR38ErLlxdWnrIQKHekC7J7x7jHIo98/edit?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
