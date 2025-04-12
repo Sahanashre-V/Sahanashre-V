@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sahanashre.v@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vk9KAW7_K-AXDR38ErLlxdWnrIQKHekC7J7x7jHIo98/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahanashre-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanashre-v" height="30" width="40" /></a>
