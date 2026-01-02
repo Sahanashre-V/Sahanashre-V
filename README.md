@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Frontend, Backend, Problem Solving**
+- 💬 Ask me about **Frontend, Backend, Problem Solving, Devops, Testing**
 
 - 📫 How to reach me **sahanashre.v@gmail.com**
 
