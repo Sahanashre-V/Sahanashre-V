@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahanashre.v@gmail.com**
 
-- 🔗 [Check out my Portfolio](https://sahanashre-portfolio.vercel.app/)
+- 🔗 [Check out my Portfolio](https://sahanashre-v.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
